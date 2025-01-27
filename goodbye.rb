@@ -1,3 +1,3 @@
 # /goodbye.rb
 
-pp "see ya later!"
+pp "see ya later :)"
